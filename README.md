@@ -27,7 +27,7 @@
 
 Навыки: A/B-тестирование, Matplotlib, Pandas, Plotly, Python, Seaborn, визуализация данных, проверка статистических гипотез, продуктовые метрики, событийная аналитика
 
-[**4. Рынок заведений общественного питания Москвы**](https://github.com/TimurSalakhetdinov/Yandex-Practicum-Data-Analysis/tree/main/Project%2002)
+[**4. Рынок заведений общественного питания Москвы**](https://github.com/TimurSalakhetdinov/Yandex-Practicum-Data-Analysis/tree/main/Project%2004)
 
 Задача: Исследование рынка общественного питания на основе открытых данных, подготовка презентации для инвесторов. 
 
