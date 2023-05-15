@@ -3,7 +3,7 @@
 
 **Список проектов:**
 
-[**1. Анализ развлекательного приложения Procrastinate Pro+**](https://github.com/TimurSalakhetdinov/Yandex-Practicum-Data-Analysis/tree/main/Project%2001)
+[**5. Анализ развлекательного приложения Procrastinate Pro+**](https://github.com/TimurSalakhetdinov/Yandex-Practicum-Data-Analysis/tree/main/Project%2001)
 
 Задача: Задача для маркетингового аналитика развлекательного приложения Procrastinate Pro+. Несмотря на огромные вложения в рекламу, последние несколько месяцев компания терпит убытки. Наша задача — разобраться в причинах и помочь компании выйти в плюс.
 
@@ -11,7 +11,7 @@
 
 Навыки: Matplotlib, Pandas, Python, Seaborn, когортный анализ, продуктовые метрики, юнит-экономика
 
-[**2. Анализ A/B-теста крупного интернет магазина**](https://github.com/TimurSalakhetdinov/Yandex-Practicum-Data-Analysis/tree/main/Project%2002)
+[**6. Анализ A/B-теста крупного интернет магазина**](https://github.com/TimurSalakhetdinov/Yandex-Practicum-Data-Analysis/tree/main/Project%2002)
 
 Задача: Используя данные интернет-магазина приоритезировать гипотезы, произвести оценку результатов A/B-тестирования различными методами. 
 
@@ -19,7 +19,7 @@
 
 Навыки: A/B-тестирование, Matplotlib, Pandas, Python, SciPy, проверка статистических гипотез
 
-[**3. Анализ результатов А/А/В эксперимента внедрения нового шрифта в мобильном приложении**](https://github.com/TimurSalakhetdinov/Yandex-Practicum-Data-Analysis/tree/main/Project%2002)
+[**7. Анализ результатов А/А/В эксперимента внедрения нового шрифта в мобильном приложении**](https://github.com/TimurSalakhetdinov/Yandex-Practicum-Data-Analysis/tree/main/Project%2002)
 
 Задача: На основе данных использования мобильного приложения для продажи продуктов питания проанализировать воронку продаж, а также оценить результаты A/A/B-тестирования. 
 
@@ -27,7 +27,7 @@
 
 Навыки: A/B-тестирование, Matplotlib, Pandas, Plotly, Python, Seaborn, визуализация данных, проверка статистических гипотез, продуктовые метрики, событийная аналитика
 
-[**4. Рынок заведений общественного питания Москвы**](https://github.com/TimurSalakhetdinov/Yandex-Practicum-Data-Analysis/tree/main/Project%2004)
+[**8. Рынок заведений общественного питания Москвы**](https://github.com/TimurSalakhetdinov/Yandex-Practicum-Data-Analysis/tree/main/Project%2004)
 
 Задача: Исследование рынка общественного питания на основе открытых данных, подготовка презентации для инвесторов. 
 
